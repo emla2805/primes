@@ -1,5 +1,5 @@
 venv
-
+.tox
 .idea/
 
 .pytest_cache/
